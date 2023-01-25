@@ -1,6 +1,5 @@
-<div style="text-align:center; font-size:20px">
 I am thrilled to announce that I successfully passed my ewpt exam on my first attempt. In preparation for the exam, I utilized various templates, including my personal favorite, the Anonymized Web Application Penetration Testing Report found at <a href="https://underdefense.com/wp-content/uploads/2021/09/Anonymized-Web-application-penetration-testing-report.pdf">https://underdefense.com/wp-content/uploads/2021/09/Anonymized-Web-application-penetration-testing-report.pdf</a>, as well as the TCM Security Sample Pentest Report found at <a href="https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report">https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report</a>, which was a popular choice among my peers.
-</div>
+
 
 <b>To ensure the quality of my report, I followed the following tips:</b>
 
